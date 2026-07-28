@@ -13,7 +13,7 @@ A seedable, choice-driven browser game about education, work, money, family, and
 
 ![China Life Simulator desktop home](./docs/screenshots/home-desktop.png)
 
-> **Online demo:** Pending the first Vercel production deployment.
+> **Online demo:** [china-life-simulator.vercel.app](https://china-life-simulator.vercel.app)
 
 ## Highlights
 

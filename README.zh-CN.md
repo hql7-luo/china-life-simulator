@@ -13,7 +13,7 @@
 
 ![中国人生模拟器桌面首页](./docs/screenshots/home-desktop.png)
 
-> **在线 Demo：** 首次 Vercel 正式部署后补充。
+> **在线 Demo：** [china-life-simulator.vercel.app](https://china-life-simulator.vercel.app)
 
 ## 功能亮点
 
