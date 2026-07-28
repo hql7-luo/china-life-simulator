@@ -52,7 +52,7 @@ A seedable, choice-driven browser game about education, work, money, family, and
 
 ## Quick Start
 
-Requirements: Node.js 20 or newer.
+Requirements: Node.js 22.13 or newer.
 
 ```bash
 git clone https://github.com/hql7-luo/china-life-simulator.git

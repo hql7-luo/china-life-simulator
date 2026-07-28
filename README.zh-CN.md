@@ -52,7 +52,7 @@
 
 ## 快速开始
 
-环境要求：Node.js 20 或更高版本。
+环境要求：Node.js 22.13 或更高版本。
 
 ```bash
 git clone https://github.com/hql7-luo/china-life-simulator.git
